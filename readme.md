@@ -31,7 +31,9 @@ If you are using your personal computer, you might need to install `cubatoolkits
 I have also attached the image folder, containing all the 12 classes with 5 sample images in each of them to give an idea of the directory structure.
 
 ## Project Documentaion
-[Project Proposal](ProjectProposal_V2PlantSeedling.pdf)
+[Project Proposal](ProjectProposal.pdf)
+
+[Project Report](ProjectReport_CNNPlantSpeciesClassification.pdf)
 
 
 
