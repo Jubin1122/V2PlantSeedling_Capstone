@@ -35,6 +35,8 @@ I have also attached the image folder, containing all the 12 classes with 5 samp
 
 [Project Report](ProjectReport_CNNPlantSpeciesClassification.pdf)
 
+[Nano Degree](https://confirm.udacity.com/HJ6U7H7J)
+
 
 
 
